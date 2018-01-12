@@ -24,3 +24,13 @@ body {
  background-color: #323232;
  padding: 50px;
 }
+
+.features {
+ font-family: 'Multi', 'Sans-serif';
+ color: #323232;
+ padding-top: 30px;
+}
+
+.features img {
+ width: 100%;
+}
