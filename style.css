@@ -14,6 +14,12 @@
  left: 20px;
 }
 
+.jumbotron p {
+    position: absolute;
+    right: 20px;
+    top: 60px;
+}
+
 body {
  background-color: #A2DED0;
  color: #F7FAFE;
@@ -60,4 +66,10 @@ body {
 
 .footer p, .fa {
     padding-top: 15px;
+}
+
+@media only screen and (max-width: 768px) {
+    .jumbotron a.btn {
+        display: none;
+    }
 }
