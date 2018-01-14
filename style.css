@@ -29,6 +29,7 @@ body {
  font-family: 'Multi', 'Sans-serif';
  color: #323232;
  padding-top: 30px;
+ font-size: 18px;
 }
 
 .features img {
@@ -38,4 +39,21 @@ body {
 .navbar {
  background: rgba(0, 0, 0, 0.5);
  border: none;
+}
+
+.footer {
+    background-color: #D64541;
+    padding: 0 15px;
+}
+
+.footer p {
+    padding-top: 15px;
+}
+
+.footer a {
+    color: white;
+}
+
+.footer a:hover {
+    color: #323232
 }
