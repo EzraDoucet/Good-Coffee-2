@@ -57,3 +57,7 @@ body {
 .footer a:hover {
     color: #323232
 }
+
+.footer p, .fa {
+    padding-top: 15px;
+}
